@@ -66,7 +66,7 @@ if (isset($_POST['submit'])) {
                 <div class="navbar-header">
                     <a class="navbar-brand" href="dashboard.php">
 
-                        <span><img src="images/logo_icon.jpg" alt="homepage" class="dark-logo" /></span>
+                        <span><img src="images/logo_icon1.jpg" alt="homepage" class="dark-logo" /></span>
                     </a>
                 </div>
                 <div class="navbar-collapse">
